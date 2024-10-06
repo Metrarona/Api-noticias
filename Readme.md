@@ -22,10 +22,3 @@ A API contém os seguintes endpoints:
 - **Nodemon**: Ferramenta para reiniciar o servidor automaticamente durante o desenvolvimento.
 - **Postman**: Utilizado para testar os endpoints da API.
 
-## Instalação e Configuração
-
-### 1. Clonar o repositório
-
-```bash
-git clone https://github.com/seu-usuario/sua-api-de-noticias.git
-cd sua-api-de-noticias
